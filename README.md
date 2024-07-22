@@ -10,7 +10,8 @@
 3 - Entre no Workbench e crie um database chamado **springboot** <br>
 4 - Configure o banco de dados em `\src\main\resources\application.properties` colocando suas credencias como **root** e **password** <br>
 5 - Rode o projeto <br>
-5 - Acesse a rota da API: http://localhost:8080/peoples <br>
+5 - Acesse a rota da API: http://localhost:8085/peoples <br>
+(Obs: por padrão vem na porta 8080 mas você pode alterar em application.properties com a opção **server_port**) <br>
 
 # Recomendações
 
