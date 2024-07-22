@@ -5,15 +5,15 @@
 
 # como rodar o projeto
 
-1 - Instale o Java JDK 17
-2 - Instale o Mysql e o Mysql Workbench CE
-3 - Entre no Workbench e crie um database chamado **springboot**
-4 - Configure o banco de dados em `\src\main\resources\application.properties` colocando suas credencias como **root** e **password**
-5 - Rode o projeto
-5 - Acesse a rota da API: http://localhost:8080/peoples
+1 - Instale o Java JDK 17 <br>
+2 - Instale o Mysql e o Mysql Workbench CE <br>
+3 - Entre no Workbench e crie um database chamado **springboot** <br>
+4 - Configure o banco de dados em `\src\main\resources\application.properties` colocando suas credencias como **root** e **password** <br>
+5 - Rode o projeto <br>
+5 - Acesse a rota da API: http://localhost:8080/peoples <br>
 
 # Recomendações
 
-1 - Faça o donwload da JDK 17 através do link: https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html
-1 - Faça o download do Mysql através do link: https://dev.mysql.com/downloads/mysql/
-2 - Faça o donwload do Workbench através do link: https://dev.mysql.com/downloads/workbench/
+1 - Donwload da JDK 17 através do link: https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html <br>
+1 - Download do Mysql através do link: https://dev.mysql.com/downloads/mysql/ <br>
+2 - Donwload do Workbench através do link: https://dev.mysql.com/downloads/workbench/ <br>
