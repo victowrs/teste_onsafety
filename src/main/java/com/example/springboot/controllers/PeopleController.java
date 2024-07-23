@@ -17,6 +17,7 @@ import com.example.springboot.repositories.PeopleRepository;
 import jakarta.validation.Valid;
 
 @RestController
+@CrossOrigin
 @RequestMapping("/peoples")
 public class PeopleController {
 
